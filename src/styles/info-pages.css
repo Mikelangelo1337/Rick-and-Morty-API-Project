@@ -1,0 +1,18 @@
+.info-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.info-div img{
+    width: 15%;
+}
+li:hover{
+    color: red;
+    cursor: pointer;
+}
+.nav-location:hover{
+    color: red;
+    cursor: pointer;
+}

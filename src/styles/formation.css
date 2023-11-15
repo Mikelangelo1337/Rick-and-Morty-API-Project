@@ -1,0 +1,8 @@
+.header{
+    gap: 10px;
+align-items: center;
+}
+.episode-text:hover{
+color: red;
+    cursor: pointer;
+}
